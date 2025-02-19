@@ -1,0 +1,45 @@
+site_name: Maïti Joanne
+site_description: Site personnel de Maïti Joanne
+site_author: Maïti Joanne
+site_url: https://maitijoanne.github.io/
+nav:
+  - Profil:
+      - index.md
+  - Showreel:
+      - portfolio/index.md
+theme:
+  name: material
+  language: fr
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  palette:
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Passer en mode sombre
+      primary: red
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Passer en mode clair
+      primary: red
+  features:
+    - header.autohide
+    - navigation.indexes
+markdown_extensions:
+  - attr_list
+  - admonition
+  - md_in_html
+  - pymdownx.caret
+  - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
