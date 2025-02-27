@@ -18,7 +18,8 @@ hide:
 ## :material-account-file-text: Profil
 
 Je suis élève en seconde générale et technologique au lycée Gaspard Monge à Savigny sur Orge.
-J'ai 15 ans et je suis un passionné d'art et de jeux vidéo
+
+J'ai 15 ans et je suis un passionné de dessin et de jeux vidéos.
 
 !!! danger inline ""
 
@@ -45,10 +46,9 @@ J'ai 15 ans et je suis un passionné d'art et de jeux vidéo
 
     ## Centres d'intérêt
 
-    Discussion sur Discord avec plusieurs groupes d'amis pour certain projet en collaboration sur la création de niveaux Geometry Dash.  
-    Conversations en anglais avec d'autres personnes sur Discord en texte ou en appel.
+    Dessins et croquis
 
-    [Création de niveaux Geometry Dash](portfolio/index.md)
+    [Projets Geometry Dash](portfolio/index.md)
 
     Taekwondo ceinture verte
 
@@ -62,9 +62,53 @@ J'ai 15 ans et je suis un passionné d'art et de jeux vidéo
 
     &nbsp;
 
+    &nbsp;
+
+    &nbsp;
+
+    &nbsp;
+
+    &nbsp;
+
+    &nbsp;
+
+    &nbsp;
+
+    &nbsp;
+
+    &nbsp;
+
+    &nbsp;
+
+    &nbsp;
+
+    &nbsp;
+
+    &nbsp;
+
+    &nbsp;
+
+    &nbsp;
+
+    &nbsp;
+
+    &nbsp;
+
+    &nbsp;
+
+    &nbsp;
+
+    &nbsp;
+
+    &nbsp;
+
+    &nbsp;
+
+    &nbsp;
+
 ## :material-office-building: Expériences
 
-### Direction Générale des Finances Publiques, Bureau de l’Architecture et des normes
+### Direction Générale des Finances Publiques, Bureau de l’Architecture et des Normes, Noisy-le-Grand
 
 **Stage de 3^e^, découverte de l'entreprise et des métiers, Février 2024**
 
@@ -72,27 +116,45 @@ Découverte des métiers de l'informatique.
 Entrevue avec les équipes :
 
 - UX Design avec interview
-- FrameWork développement Java
+- Framework de développement Java
 - Outillage informatique
 - Développement dans le Cloud
+- Cybersécurité
 
 Le design concerne la création d'écrans pour des applications ou des services.  
-Le métier d’UX Designer est de concevoir et de s'assurer que le produit/interface est utile et utilisable.
+Le métier d’UX Designer consiste à concevoir et s'assurer que le produit/interface est utile et utilisable.
 
 **Comment ?**
 
-- Utilisation d’outils (Sketch, Figma. Invision).
+- Utilisation d’outils (Sketch, Figma. Invision)
 - Conception et test des prototypes
 - Travail en équipe avec des utilisateurs,
 développeurs, graphistes, et autres
 métiers.
+
+### Participation et communication autour de projets collaboratifs (Geometry Dash)
+**Depuis 2021**
+
+- Discussions actives (en anglais et en français) sur Discord avec plusieurs groupes
+- Partage d’idées
+- Résolution de problèmes pour atteindre des objectifs communs
+- Échange de connaissances techniques et artistiques avec d’autres créateurs
+
+### Création de contenu et contribution à des projets créatifs (Geometry Dash)
+**Depuis 2021**
+
+- Conception collaborative avec les communautés en ligne via Discord
+- Développement de niveaux personnalisés pour le jeu [Geometry Dash](https://www.robtopgames.com/) ([voir le portfolio](portfolio/index.md))
+- Utilisation d’outils de création (éditeur de niveaux Geometry Dash, montage vidéo CapCut)
+- Application de principes de design pour produire du contenu engageant et créatif (décorations, effets, transitions, gameplay en rythme avec la musique)
+
 ## :material-school: Formation
 
 ### Seconde générale et technologique
 
-**Lycée Gaspard Monge à Savigny sur Orge**
+**Lycée Gaspard Monge à Savigny sur Orge 91600**
 
 ### Diplôme national du brevet
 
-**Collège de l'Institution du Sacré-Cœur à La Ville du Bois**  
+**Collège de l'Institution du Sacré-Cœur à La Ville du Bois 91620**  
 Mention bien.

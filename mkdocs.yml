@@ -5,7 +5,7 @@ site_url: https://maitijoanne.github.io/
 nav:
   - Profil:
       - index.md
-  - Showreel:
+  - Portfolio:
       - portfolio/index.md
 theme:
   name: material
