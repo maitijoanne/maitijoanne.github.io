@@ -108,11 +108,12 @@ J'ai 15 ans et je suis un passionné de dessin et de jeux vidéos.
 
 ## :material-office-building: Expériences
 
-### Direction Générale des Finances Publiques, Bureau de l’Architecture et des Normes, Noisy-le-Grand
+### Direction Générale des Finances Publiques
 
-**Stage de 3^e^, découverte de l'entreprise et des métiers, Février 2024**
+**Stage de 3^e^, Février 2024, Noisy-le-Grand (93160)**
 
-Découverte des métiers de l'informatique.  
+Découverte des métiers de l'informatique.
+
 Entrevue avec les équipes :
 
 - UX Design avec interview
@@ -132,19 +133,21 @@ Le métier d’UX Designer consiste à concevoir et s'assurer que le produit/int
 développeurs, graphistes, et autres
 métiers.
 
-### Participation et communication autour de projets collaboratifs (Geometry Dash)
-**Depuis 2021**
+### Participation et communication autour de projets collaboratifs
+
+**Jeu Geometry Dash, depuis 2021**
 
 - Discussions actives (en anglais et en français) sur Discord avec plusieurs groupes
 - Partage d’idées
 - Résolution de problèmes pour atteindre des objectifs communs
 - Échange de connaissances techniques et artistiques avec d’autres créateurs
 
-### Création de contenu et contribution à des projets créatifs (Geometry Dash)
-**Depuis 2021**
+### Création de contenu et contribution à des projets créatifs
+
+**Jeu Geometry Dash, depuis 2021**
 
 - Conception collaborative avec les communautés en ligne via Discord
-- Développement de niveaux personnalisés pour le jeu [Geometry Dash](https://www.robtopgames.com/) ([voir le portfolio](portfolio/index.md))
+- Développement de niveaux personnalisés pour le jeu Geometry Dash ([voir mon portfolio](portfolio/index.md))
 - Utilisation d’outils de création (éditeur de niveaux Geometry Dash, montage vidéo CapCut)
 - Application de principes de design pour produire du contenu engageant et créatif (décorations, effets, transitions, gameplay en rythme avec la musique)
 
@@ -152,9 +155,10 @@ métiers.
 
 ### Seconde générale et technologique
 
-**Lycée Gaspard Monge à Savigny sur Orge 91600**
+**Lycée Gaspard Monge à Savigny sur Orge (91600)**
 
 ### Diplôme national du brevet
 
-**Collège de l'Institution du Sacré-Cœur à La Ville du Bois 91620**  
+**Collège de l'Institution du Sacré-Cœur à La Ville du Bois (91620)**
+
 Mention bien.
